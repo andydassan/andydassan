@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-After two decades of work in IT, I decided that I wanted to do something of my own, so I started my own projects, one of them is - (https://superbcompanies.com)[Superbcompanies]
-
+After two decades of work in IT, I decided that I wanted to do something of my own, so I started my own projects, one of them is - <a href="https://superbcompanies.com">Superbcompanies</a>
 
 <!--
 **andydassan/andydassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
